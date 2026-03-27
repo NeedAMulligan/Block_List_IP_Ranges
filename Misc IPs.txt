@@ -1,15 +1,8 @@
-# Consolidated Blacklist for External Resource
-
-# AS33438 - Highwinds Network Group / StackPath
 68.168.208.0/20
-
-# AS212040 - Serverion (Netherlands)
 193.34.212.0/22
 141.11.156.0/22
 193.58.176.0/22
 141.11.192.0/22
-
-# AS14956 - RouterHosting / Cloudzy
 104.194.128.0/19
 172.86.64.0/18
 167.88.160.0/20
@@ -20,52 +13,32 @@
 45.61.128.0/20
 45.61.156.0/23
 216.126.224.0/20
-
-# AS42237 - Shinjiru Technology (Offshore/Bulletproof)
 2.56.136.0/22
 2.57.148.148/32
-
-# AS202425 - IP Volume (Botnet/Scanning Activity)
 5.1.46.5/32
 5.1.46.87/32
 5.181.0.0/22
-
-# AS35592 - Coolhousing / AS210644 - AEZA
 5.252.188.0/22
 5.252.189.170/32
-
-# AS51765 - Oy Slt (Frequent Scanners)
 5.42.218.130/32
 5.42.218.228/32
 5.42.218.36/32
 5.57.210.203/32
-
-# AS16276 - OVH / AS39832 - OVH US
 15.235.0.0/16
 149.202.74.0/24
 147.135.0.0/17
-
-# AS14061 - DigitalOcean
 146.190.0.0/16
 161.35.0.0/16
 165.232.184.0/24
 178.128.32.0/20
-
-# AS20473 - Choopa / Vultr
 104.207.32.0/19
 104.167.220.0/22
 108.61.0.0/16
-
-# AS63949 - Linode / Akamai
 64.226.64.0/18
-
-# AS44477 - Stark Industries Solutions
 45.132.48.0/22
 45.156.128.0/24
 94.156.64.0/24
 94.156.65.0/24
-
-# AS200000+ - Various Cloud & Scanning (M247, Hostinger, etc)
 23.159.216.0/24
 23.162.40.0/24
 31.220.0.0/22
@@ -86,10 +59,6 @@
 91.92.240.0/22
 95.164.0.0/17
 103.102.246.0/23
-
-# AS13335 - Cloudflare (Scrapers/Proxies)
 103.151.103.0/24
-
-# AS9808 - Guangdong Mobile (China-based Probes)
 223.112.0.0/14
 223.64.0.0/11
