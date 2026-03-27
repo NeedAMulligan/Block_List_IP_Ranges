@@ -1,3 +1,5 @@
+# Consolidated Blacklist for External Resource
+
 # AS42473 - Datacamp Ltd (Global CDN / Bot Source)
 37.19.194.0/24
 37.19.200.0/24
