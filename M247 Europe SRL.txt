@@ -1,6 +1,3 @@
-# AS8972 / AS35662 - M247 Europe SRL
-# Consolidated Blacklist for External Resource
-# Processed with Supernetting and Range Merging
 2.56.16.0/22
 2.57.28.0/22
 2.57.68.0/22
