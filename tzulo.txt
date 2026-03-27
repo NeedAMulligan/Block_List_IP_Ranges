@@ -1,6 +1,3 @@
-# AS11878 - Tzulo, Inc.
-# Consolidated Blacklist for External Resource
-# Processed with Supernetting and Range Merging
 23.158.232.0/23
 23.234.64.0/18
 23.255.0.0/17
