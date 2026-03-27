@@ -1,3 +1,5 @@
+# AS8100 - QuadraNet Enterprises
+# Consolidated Blacklist for FortiGate External Resource
 5.253.38.0/24
 23.92.52.0/22
 23.152.0.0/24
