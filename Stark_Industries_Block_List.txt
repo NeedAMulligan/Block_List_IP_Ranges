@@ -1,5 +1,3 @@
-# AS44477 - Stark Industries Solutions
-# Consolidated Blacklist for External Resource
 2.56.118.0/23
 2.56.120.0/23
 2.56.122.0/24
