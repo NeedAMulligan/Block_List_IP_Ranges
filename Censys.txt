@@ -1,3 +1,5 @@
+# Consolidated Blacklist for External Resource
+
 # AS399228 / AS213327 - Censys, Inc. (Vulnerability Scanners)
 162.142.125.0/24
 167.94.138.0/24
