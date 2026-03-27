@@ -1,6 +1,3 @@
-# Consolidated Blacklist for External Resource
-
-# AS14061 - DigitalOcean (Cloud Infrastructure / VPS)
 5.101.96.0/20
 24.144.64.0/21
 24.144.72.0/24
