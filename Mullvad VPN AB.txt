@@ -1,3 +1,5 @@
+# Consolidated Blacklist for External Resource
+
 # AS208581 - Scalaxy B.V.
 23.142.224.0/24
 
