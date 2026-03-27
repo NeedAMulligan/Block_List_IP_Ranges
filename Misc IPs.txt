@@ -1,3 +1,5 @@
+# Consolidated Blacklist for External Resource
+
 # AS212040 - Serverion (Netherlands)
 193.34.212.0/22
 141.11.156.0/22
